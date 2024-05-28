@@ -5,7 +5,7 @@
 ابتدا پروژه base را روی ریپوی خود آوردیم.
 ### تصاویر مراحل کار:
 - ![telegram-cloud-photo-size-4-5958298990783088378-y](https://github.com/seftaz/Experiment-Docker/assets/79265096/cff41ef7-7d5b-4baf-9692-c60b661b5d54)
-پروژه‌ی base
+  پروژه‌ی base
 
 - ![telegram-cloud-photo-size-4-5958298990783088386-y](https://github.com/seftaz/Experiment-Docker/assets/79265096/8a8b958c-ff1c-4cf6-ae6c-575cf078f011)
 فایل docker-compose.yml
